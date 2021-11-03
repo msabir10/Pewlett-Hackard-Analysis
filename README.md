@@ -4,7 +4,7 @@ The purpose of this analysis was to find the  employees who may be eligible to r
 
 ## Resources
 To conduct the analysis, we were provided six CSV files containing all necessary information. 
-The CSV files were reviewed to identify the primary keys, data types, and foreign keys. An entity relationship diagram was created to visualize the relationships between the files. From there, the files were imported into a PostgreSQL database, where we conducted our analysis. The analysis will be covered in more detail in section 2. Below is a copy of the ERD that was created.
+The CSV files were reviewed to identify the primary keys, data types, and foreign keys. An entity relationship diagram was created to visualize the relationships between the files. From there, the files were imported into a PostgreSQL database, where we conducted our analysis. Below is a copy of the ERD that was created.
 ![QuickDBD-export](https://user-images.githubusercontent.com/89148689/140103873-689720f8-fcd7-491e-82fa-db7ea7c6772c.png)
 
 ## Results
